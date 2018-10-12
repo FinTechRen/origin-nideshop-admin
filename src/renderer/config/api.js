@@ -1,4 +1,4 @@
-const rootUrl = 'https://originapi.xglxgj.com/admin/';
+const rootUrl = 'https://admin.fintechren.com/';
 
 const api = {
     rootUrl
